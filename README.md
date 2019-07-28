@@ -4,4 +4,6 @@ Flaskin käytön harjoitus.
 
 ## heroku
 
-[Demo](https://topin-demo-flask.herokuapp.com)
+[Linkki](https://topin-demo-flask.herokuapp.com)
+
+[demo](https://topin-demo-flask.herokuapp.com/demo)
