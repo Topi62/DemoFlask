@@ -1,7 +1,7 @@
-#DemoFlask
+# DemoFlask
 
 Flaskin käytön harjoitus.
 
-##heroku
+## heroku
 
 [Demo](https://topin-demo-flask.herokuapp.com)
